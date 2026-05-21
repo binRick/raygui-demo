@@ -124,3 +124,18 @@ RAYGUI_SCENE=1 RAYGUI_FORM=1 RAYGUI_SCREENSHOT=hero.png ./build/raygui-menus
 ## License
 
 raygui and raylib are both [Zlib](https://opensource.org/license/zlib)-licensed. The demo code is yours to copy.
+
+<!-- scc-start -->
+## Code Statistics
+
+| Language | Files | Lines | Blanks | Comments | Code | Complexity |
+|---|---|---|---|---|---|---|
+| C | 3 | 1,605 | 185 | 88 | 1,332 | 196 |
+| C Header | 2 | 6,165 | 893 | 1,235 | 4,037 | 1,092 |
+| Shell | 2 | 27 | 3 | 3 | 21 | 0 |
+| Makefile | 1 | 23 | 7 | 0 | 16 | 0 |
+| Markdown | 1 | 126 | 31 | 0 | 95 | 0 |
+| **Total** | **9** | **7,946** | **1,119** | **1,326** | **5,501** | **1,288** |
+
+*Generated with [scc](https://github.com/boyter/scc) on 2026-05-20*
+<!-- scc-end -->
