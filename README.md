@@ -132,10 +132,15 @@ raygui and raylib are both [Zlib](https://opensource.org/license/zlib)-licensed.
 |---|---|---|---|---|---|---|
 | C | 3 | 1,605 | 185 | 88 | 1,332 | 196 |
 | C Header | 2 | 6,165 | 893 | 1,235 | 4,037 | 1,092 |
+| Markdown | 2 | 147 | 35 | 0 | 112 | 0 |
 | Shell | 2 | 27 | 3 | 3 | 21 | 0 |
 | Makefile | 1 | 23 | 7 | 0 | 16 | 0 |
-| Markdown | 1 | 126 | 31 | 0 | 95 | 0 |
-| **Total** | **9** | **7,946** | **1,119** | **1,326** | **5,501** | **1,288** |
+| **Total** | **10** | **7,967** | **1,123** | **1,326** | **5,518** | **1,288** |
 
-*Generated with [scc](https://github.com/boyter/scc) on 2026-05-20*
+- **Estimated Cost to Develop (organic):** $162,355
+- **Estimated Schedule Effort (organic):** 6.89 months
+- **Estimated People Required (organic):** 2.09
+- **Processed:** 371,630 bytes (0.372 megabytes)
+
+*Generated with [scc](https://github.com/boyter/scc) on 2026-05-22*
 <!-- scc-end -->
